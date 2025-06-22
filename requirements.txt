@@ -1,0 +1,7 @@
+telethon
+pandas
+python-dotenv
+tqdm
+nltk
+beautifulsoup4
+emoji
