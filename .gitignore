@@ -7,6 +7,9 @@ __pycache__/
 *.so
 .env
 models/
+data/
+models/
+.env
 # Distribution / packaging
 .Python
 build/
